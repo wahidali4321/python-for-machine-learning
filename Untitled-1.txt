@@ -1,0 +1,8 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+marks = np.array([1, 2, 3])
+student = np.array([22, 33, 44])
+
+plt.plot(marks, student, 'o')   # Circle markers
+plt.show()
