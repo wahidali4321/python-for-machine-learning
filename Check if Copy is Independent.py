@@ -1,0 +1,6 @@
+import numpy as np
+arra = np.array([1,2,3,4,5,6,7])
+x = arra.copy()
+x[0] = 30
+print(arra)
+print(x)
