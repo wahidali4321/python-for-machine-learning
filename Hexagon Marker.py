@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 time = [0, 1, 2, 3, 4]
 speed = [0, 20, 40, 60, 80]

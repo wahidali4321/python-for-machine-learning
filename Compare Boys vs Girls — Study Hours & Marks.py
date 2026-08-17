@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 
 boys_hours = np.array([2, 3, 4, 5, 6, 7])

@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 exercise_A = [10, 20, 30, 40, 50, 60]
 calories_A = [80, 150, 220, 290, 350, 410]

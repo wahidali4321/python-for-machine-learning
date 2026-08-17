@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 flo = np.array([1.1,2.2,3.3,4.4,5.5])
 print(flo)
 print(flo.dtype)

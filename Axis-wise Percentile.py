@@ -1,5 +1,5 @@
-import numpy as np
-import numpy as np
+import numpy_p1 as np
+import numpy_p1 as np
 
 scores = np.array([
     [80, 85, 90],

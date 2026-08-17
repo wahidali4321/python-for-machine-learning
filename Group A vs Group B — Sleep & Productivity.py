@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 sleep_A = [5, 6, 7, 8, 9, 10]
 productivity_A = [50, 60, 68, 75, 82, 85]

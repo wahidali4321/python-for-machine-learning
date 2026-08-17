@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 Months = np.array(["Jan" , "Feb" , "Mar" , "April" , "May" , "Jun"])
 Rainfall = np.array([20, 35, 28, 45, 40, 50])

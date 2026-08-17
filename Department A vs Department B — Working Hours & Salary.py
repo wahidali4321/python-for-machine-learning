@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 hours_A = [30, 35, 40, 45, 50, 55]
 salary_A = [30, 35, 42, 50, 58, 65]

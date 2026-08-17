@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 temperature_A = [20, 22, 25, 28, 30, 32]
 usage_A = [120, 135, 150, 175, 190, 210]

@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 x = np.array([
     [
         [1, 2],

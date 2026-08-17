@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
 temperature = [31, 33, 30, 34, 32]

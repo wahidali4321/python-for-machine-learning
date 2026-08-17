@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 marks = [65, 70, 75, 80, 85, 90, 95]
 TF = np.percentile(marks , 25)
 FT = np.percentile(marks , 50)

@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import numpy_p1 as np
 x = np.array(["Apple" , "Banana"])
 y = np.array([11,22])
 plt.bar(x,y)

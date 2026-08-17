@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 sales = [120, 135, 140, 150, 160, 170, 180, 190, 200]
 
 thirty = np.percentile(sales , 30)

@@ -1,5 +1,5 @@
 import random as rd
-import numpy as np
+import numpy_p1 as np
 
 numbers = []
 for numbers in range(100):

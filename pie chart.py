@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import numpy_p1 as np
 
 y = np.array([35, 25, 25, 15])
 

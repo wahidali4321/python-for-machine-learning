@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 marks = [11,22,33,44,55,66,77,88,99,12,13,14,15,16,17,18,19,20,21]
 tenth = np.percentile(marks , 10)
 twentyFive = np.percentile(marks , 25)

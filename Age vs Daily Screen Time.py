@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 
 Age = np.array([10, 12, 14, 16, 18, 20, 22, 25])

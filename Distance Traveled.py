@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 
 time = np.array([0, 1, 2, 3, 4, 5])

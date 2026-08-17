@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 exams = np.array([1, 2, 3, 4, 5])
 marks = np.array([65, 72, 80, 78, 90])

@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 hours = [1, 2, 3, 4, 5]
 study = [2, 3, 5, 4, 6]

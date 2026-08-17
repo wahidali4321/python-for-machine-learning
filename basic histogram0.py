@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 
 marks = [45, 50, 55, 60, 65, 70, 75, 80, 85, 90]

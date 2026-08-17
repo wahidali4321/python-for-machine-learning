@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import numpy_p1 as np
 
 xpoints = np.array([0, 6])
 ypoints = np.array([0, 250])

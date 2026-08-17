@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 arr = np.array([[65, 72, 80, 55, 90]])
 largest = np.max(arr)
 print(arr)

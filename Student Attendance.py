@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 days = np.array([1, 2, 3, 4, 5])
 attendance = np.array([25, 28, 27, 30, 29])

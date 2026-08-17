@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 temperatures = [30, 32, 31, 35, 34, 36, 33, 37, 38, 39]
 
 Twenth = np.percentile(temperatures , 20)

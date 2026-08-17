@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 arrs = np.array([5, 10, 15, 20, 25])
 x = arrs.copy()
 x[4] = 100

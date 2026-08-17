@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 Advertising_budget = np.array([100, 200, 300, 400, 500, 600, 700])
 Sales = np.array([20, 35, 45, 55, 70, 82, 95])

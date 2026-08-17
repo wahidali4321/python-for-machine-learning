@@ -1,8 +1,8 @@
 6
 
-import numpy as np
+import numpy_p1 as np
 
-import numpy as np
+import numpy_p1 as np
 
 
 

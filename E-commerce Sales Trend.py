@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 sales = [1200, 1350, 1500, 1450, 1700, 2200, 2100]

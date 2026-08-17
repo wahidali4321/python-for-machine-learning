@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import numpy_p1 as np
 study_hours_A = [1, 2, 3, 4, 5, 6]
 marks_A = [45, 52, 60, 68, 75, 82]
 plt.scatter(study_hours_A , marks_A , marker = 'o' , color = "red" , label = "study_hours_A")

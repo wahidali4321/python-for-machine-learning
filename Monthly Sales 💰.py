@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 Months = np.array(["jan" , "feb" , "mar" , "apr" , "may"])
 sales = np.array([100, 120, 115, 140, 160])

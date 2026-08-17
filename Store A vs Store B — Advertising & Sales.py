@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 advertising_A = [10, 20, 30, 40, 50, 60]
 sales_A = [100, 125, 150, 180, 210, 240]

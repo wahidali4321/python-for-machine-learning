@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 students = np.array([
     "Ali", "Ahmed", "Usman", "Hamza",
     "Bilal", "Hassan", "Zain", "Omar"

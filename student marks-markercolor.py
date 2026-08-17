@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_p1 as np
 import matplotlib.pyplot as plt
 subjects = ["Math", "Physics", "Chemistry", "English", "Biology"]
 marks = [78, 85, 90, 82, 88]
